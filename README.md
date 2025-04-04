@@ -78,16 +78,8 @@ The Flight Ticket Booking System is a console-based application that allows user
 - `Seat_arrangement.csv`: Manages seat allocation for different flights.
 - `README.md`: Project documentation.
 
-## Contributors
-
-- [Shivam](https://github.com/shivaiitp)
-- [Your Team Member 1]
-- [Your Team Member 2]
 
 ## Acknowledgments
 
 Thanks to our faculty and peers for their support and guidance throughout the development of this project.
 
-## License
-
-This project is licensed under the MIT License.
